@@ -10,7 +10,8 @@ Berikut Langkah-Langkah untuk Menjalankan Proyek Kalkulator Sederhana dalam Penj
 3. *Commit*
 4. *Push*
 5. *Jalankan Proyek*
-  -  Menggunakan Variable angka1 dan angka 2
-  -  Input kedua Variable
-  -  Program akan menghitung menggunakan rumus angka1+angka2
-  -  Outputan hasil dari perhitungan tersebut
+   ## Proses Running
+   -  Menggunakan Variable angka1 dan angka 2
+   -  Input kedua Variable
+   -  Program akan menghitung menggunakan rumus angka1+angka2
+   -  Outputan hasil dari perhitungan tersebut
